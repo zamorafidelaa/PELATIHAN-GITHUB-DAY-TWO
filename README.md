@@ -10,7 +10,7 @@
 
 [Tata Surya](https://solarsystem.nasa.gov/)
 
-![Black Hole](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fwhat-black-holes-explained%2F&psig=AOvVaw2sdenKgLNEDTlQ9PxaZyMT&ust=1733631615377000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiNv5nnlIoDFQAAAAAdAAAAABAE)
+![Black Hole](https://media.wired.com/photos/65e83f121400ca9720ba84e2/1:1/w_1796,h_1796,c_limit/black-hole.jpg)
 
 | Planet | Diameter | Jumlah Satelit |
 | ------- | -------- | -------------- |
